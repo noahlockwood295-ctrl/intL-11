@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "noah-int.slnx"
+    "dotnet.defaultSolution": "intL-11.slnx"
 }
